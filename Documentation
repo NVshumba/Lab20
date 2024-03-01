@@ -1,0 +1,58 @@
+                                                                        Azure DevOps Hands-on Lab
+Ahmed Eissa, Adam Philpot, Olugbenga Oluwagbemi
+Wednesday 27th February 2024
+
+Objec�ve:
+• Gain hands-on experience with Azure DevOps by se�ng up a project, crea�ng pipelines, and
+managing work items.
+Prerequisites:
+• Azure DevOps account (either individual or within an organiza�on).
+• Basic understanding of version control (Git).
+Lab Setup (20 minutes):
+
+1. Project Idea:
+• Briefly describe your group project idea your group will be working on to The
+Syndicate member. Ensure it's a manageable scope for the CW2 dura�on.
+2. Azure DevOps Account:
+• Make sure each your group has access to an Azure DevOps account and all team
+members are invited into it.
+
+//Lab Tasks:
+Task 1: Project Setup (30 minutes)
+1. Create a New Project:
+• Go to Azure DevOps and create a new project for your designated idea.
+• Name the project, choose version control (Git), and set up ini�al se�ngs.
+2. Repository Setup:
+• Create a Git repository within your project.
+• Clone the repository to your local machine.
+3. Add Sample Code/Files:
+• Add sample code or files relevant to your project idea to the local repository.
+• Commit and push changes to the Azure DevOps repository.
+
+
+//Task 2: Work Item Management (30 minutes)
+1. Create Work Items:
+• Define user stories, tasks, and bugs related to your project.
+• Add them as work items in the Azure DevOps Boards.
+2. Backlog Priori�sa�on:
+• Priori�se the backlog based on the importance of work items.
+3. Board Configura�on:
+• Customise your board columns and se�ngs to align with your project's workflow.
+Task 3: Collabora�on and Integra�on (30 minutes)
+1. Branching Strategy:
+• Implement a branching strategy suitable for your project.
+• Create feature branches for new development.
+2. Pull Requests:
+• Ini�ate pull requests for code reviews and collabora�on.
+• Discuss and approve/reject pull requests.
+3. Integra�on with Visual Studio Code:
+• Explore integra�on features between Azure DevOps and Visual Studio Code.
+
+//Conclusion: (10 minutes)
+• Review and Discuss within your group (if they’re in the same lab session):
+• Share experiences and challenges faced during the lab.
+• Discuss the importance of DevOps prac�ces in the development lifecycle.
+
+• Next Steps:
+• Learn more about the Azure DevOps Pipeline features.
+• Learn more about the Azure DevOps Unit Test features.
